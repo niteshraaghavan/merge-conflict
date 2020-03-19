@@ -15,14 +15,14 @@ Feature1 Function()
   //Sample Code
 }
 
-
-
+<<<<<<< HEAD
+=======
 Feature2 Function()
 {
   //Sample Code
 }
 
-
+>>>>>>> feature2
 Feature2 Security()
 {
  //Sample Code
