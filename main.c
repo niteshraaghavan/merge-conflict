@@ -11,5 +11,14 @@ Initial Security()
 }
 
 
+Feature2 Function()
+{
+  //Sample Code
+}
+
+Feature2 Security()
+{
+ //Sample Code
+}
 
 }
